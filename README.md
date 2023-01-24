@@ -21,7 +21,7 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
-## LICENCE
+## LICENSE
 
 MIT License
 
