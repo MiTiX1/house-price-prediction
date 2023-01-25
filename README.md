@@ -6,7 +6,7 @@ This is a house price prediction app that uses a Random Forest Regressor to the 
 
 ![overview of the app](./images/overview.PNG)
 
-## Installation & Run
+## Install & Run
 
 1. Clone the repository
 ```sh
